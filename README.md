@@ -1,6 +1,4 @@
-# NYSE-Project
-NYSE Project
-
+Flight Delay Project
 Data Visualization Project
 Build Data Dashboards.
 Galimberti Luciana, October 2022.
